@@ -1,0 +1,10 @@
+{
+    "dataNotFound": "Veri bulunamadı.",
+    "dataNotANumber": "Veri bir sayı değil.",
+    "mustBeANumber": "Değer bir sayı olmak zorundadır.",
+    "mustBeArray": "Veri array içinde olmak zorundadır.",
+    "notEndsWithDotJson": "Dosyanın uzantısı 'json' olmak zorundadır.",
+    "undefinedKey": "Tanımlanmayan veri.",
+    "undefinedValue": "Tanımlanmayan değer.",
+    "undefinedFileName": "Tanımlanmayan dosya adı."
+}
