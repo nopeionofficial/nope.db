@@ -1,3 +1,3 @@
 # nope.db
 
-Yukarıdaki main kısmına basarak sürümü seçebilirsiniz.
+Yukarıdaki main butonuna basarak sürümü seçebilirsiniz.
