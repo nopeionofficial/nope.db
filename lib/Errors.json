@@ -1,0 +1,10 @@
+{
+    "dataNotANumber": "TR: Girdiğiniz ID'ye ait olan veri 'number' türü değil / EN: The data that belongs to the ID you entered is not the type 'number'",
+    "fileNotFound": "TR: Dosya bulunamadı / EN: File not found",
+    "mustBeANumber": "TR: Girdiğiniz değer 'number' türü değil / EN: The value you entered is not of type 'number'",
+    "mustBeArray": "TR: Veri array içinde olmak zorundadır / EN: The data must be in the array",
+    "notEndsWithDotJson": "TR: Dosyanın uzantısı 'json' olmak zorundadır / The extension of the file must be 'json'",
+    "undefinedId": "TR: Tanımlanmayan ID / EN: Undefined ID",
+    "undefinedValue": "TR: Tanımlanmayan değer / EN: Undefined value",
+    "undefinedFileName": "TR: Tanımlanmayan dosya adı / EN: Undefined file name"
+}
