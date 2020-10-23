@@ -23,6 +23,16 @@
 
 > By clicking on the links, you can go to the relevant section.
 
+<div id ="definition">
+
+<hr>
+
+# Yenilikler / Updates
+
+- [Gitmek için tıkla / Click to go](https://github.com/jesuswasmychoice/nope.db/blob/main/CHANGELOG.md)
+
+</div>
+
 <div id ="installation">
 
 <hr>
