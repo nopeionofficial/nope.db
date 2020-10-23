@@ -1,5 +1,7 @@
 # Güncellemeler / Updates
 
+<hr>
+
 - Yenilikler / News (0.0.7):
   - Hata mesajları düzenlendi.
     - Error messages edited.
@@ -16,11 +18,15 @@
   - Lisans dosyasındaki yazım hatası düzeltildi.
     - Fixed typo in license file.
 
+<hr>
+
 - Yenilikler / News (0.0.6-Beta):
   - İngilizce açıklamalar eklendi.
     - English descriptions added.
   - [.subtract()](https://www.npmjs.com/package/nope.db#subtract) metodundaki bazı hatalar düzeltildi.
     - Fixed some errors in the [.subtract()](https://www.npmjs.com/package/nope.db#subtract) method.
+
+<hr>
 
 - Yenilikler / News (0.0.5-Beta):
   - [unPush()](https://www.npmjs.com/package/nope.db#unPush) methodu sonsuza kadar kaldırıldı.
@@ -33,3 +39,5 @@
     - [README.md](https://www.npmjs.com/package/nope.db#readme.md) file updated.
   - [Destek adresleri](https://www.npmjs.com/package/nope.db#support) eklendi.
     - [Support addresses](https://www.npmjs.com/package/nope.db#support) added.
+   
+<hr>
