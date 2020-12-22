@@ -9,8 +9,8 @@
     - Added the ability to create multiple databases.
   - Çoğu ayar kişiselleştirilebilir hale getirildi.
     - Most settings have been made customizable.
-  - [.backup()](https://www.npmjs.com/package/nope.db#backup) and [.loadBackup()](https://www.npmjs.com/package/nope.db#loadBackup) has been removed.
-    - 
+  - [.backup()](https://www.npmjs.com/package/nope.db#backup) ve [.loadBackup()](https://www.npmjs.com/package/nope.db#loadBackup) metotları kaldırıldı.
+    - [.backup()](https://www.npmjs.com/package/nope.db#backup) and [.loadBackup()](https://www.npmjs.com/package/nope.db#loadBackup) methods has been removed.
 
 <hr>
 
