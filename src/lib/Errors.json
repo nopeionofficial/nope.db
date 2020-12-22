@@ -1,11 +1,17 @@
 {
-    "dataNotANumber": "Girdiğiniz ID'ye ait olan veri 'number' türü değil / The data that belongs to the ID you entered is not the type 'number'",
-    "mustBeANumber": "Girdiğiniz değer 'number' türü değil / The value you entered is not of type 'number'",
-    "mustBeArray": "Veri array içinde olmak zorundadır / The data must be in the array",
-    "notEndsWithDotJson": "Dosyanın uzantısı 'json' olmak zorundadır / The extension of the file must be 'json'",
-    "nonValidID": "Girdiğiniz ID geçerli değil / The ID you entered is not valid",
-    "nonValidValue": "Girdiğiniz değer geçerli değil / The value you entered is not valid",
-    "undefinedID": "Tanımlanmayan ID / Undefined ID",
-    "undefinedValue": "Tanımlanmayan değer / Undefined value",
-    "undefinedFileName": "Tanımlanmayan dosya adı / Undefined file name"
+    "required": "The settings are required",
+    "mustBeObject": "The settings must be an object",
+    "spaces": "The spaces of the database file is must be an number",
+    "dir": "The directory path is required",
+    "dir2": "The directory path must be an string",
+    "dir3": "The directory must be valid",
+    "name": "The name of the database is required",
+    "name2": "The name of the database must be an string",
+    "name3": "The name must have more of one character",
+    "name4": "The name must only include letters, numbers and underscores",
+    "seperator": "The seperator is required",
+    "seperator2": "The seperator must be an string",
+    "seperator3": "Disallowed separator",
+    "seperator4": "Seperator length must be 1",
+    "lang": "The language path must be an string"
 }

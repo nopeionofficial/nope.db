@@ -1,10 +1,9 @@
-class nopedbError extends Error {
-
+class DatabaseError extends Error {
     constructor(message = "Unknown error") {
         super();
-        this.name = "nopedbError";
+        this.name = "nopedb";
         this.message = message;
     };
 };
 
-module.exports = nopedbError;
+module.exports = DatabaseError;

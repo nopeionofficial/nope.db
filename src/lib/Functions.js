@@ -1,21 +1,8 @@
-const fs = require("fs");
-const { databaseFileName, spaces } = require("../Config.json");
-
-function read() {
-    return JSON.parse(fs.readFileSync(databaseFileName, "utf-8"));
-};
-
-function write(data) {
-    fs.writeFileSync(databaseFileName, JSON.stringify(data, null, spaces));
-};
-
 function validID(id) {
     if (typeof id !== "string" ||
         id.length < 1 ||
-        !id.match(/^[a-zA-Z0-9\.]+$/) ||
-        id.split(".").includes("") ||
-        id.endsWith(".") ||
-        id.startsWith(".")) return false;
+        !id.match(/^[a-zA-Z0-9\.]+$/))
+        return false;
     return true;
 };
 
@@ -26,14 +13,6 @@ function validValue(value) {
         typeof value === "boolean" ||
         typeof value === "undefined") return true;
     return false;
-};
-
-function checkDatabase() {
-    try {
-        read();
-    } catch (error) {
-        write({});
-    };
 };
 
 function isArray(data) {
@@ -49,11 +28,5 @@ function stringifyData(data) {
 };
 
 module.exports = {
-    read,
-    write,
-    checkDatabase,
-    isArray,
-    validID,
-    validValue,
-    stringifyData
+    validID, validValue, isArray, stringifyData
 };

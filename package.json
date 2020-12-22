@@ -1,7 +1,7 @@
 {
   "name": "nope.db",
-  "author": "nope",
-  "version": "0.0.7",
+  "author": "nopeion",
+  "version": "0.0.8",
   "description": "nope.db simple JSON database for node.js.",
   "main": "./src/app.js",
   "directories": {
@@ -11,19 +11,16 @@
     "test": "node ./src/app.js"
   },
   "license": "MIT",
-  "dependencies": {
-    "fs": "0.0.1-security"
-  },
   "repository": {
     "url": "https://github.com/jesuswasmychoice/nope.db"
   },
   "keywords": [
     "json",
     "json-database",
-    "node.js",
-    "database",
-    "db",
     "fs",
     "file system"
-  ]
+  ],
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
 }

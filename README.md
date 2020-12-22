@@ -52,7 +52,14 @@ $ npm install nope.db
 # Tanımlama / Definition
 
 ```js
-const db = require("nope.db");
+const nope_db = require("nope.db");
+const db = new nope_db({
+    name: "db",
+    dir: __dirname,
+    seperator: ".",
+    spaces: 2,
+    language: "en_US"
+});
 ```
 
 </div>

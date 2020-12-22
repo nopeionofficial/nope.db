@@ -1,0 +1,11 @@
+{
+    "undefinedID": "Undefined ID",
+    "undefinedValue": "Undefined value",
+    "nonValidValue": "The value you entered is not valid",
+    "undefinedFileName": "Undefined file name",
+    "notEndsWithDotJson": "The extension of the file must be 'json'",
+    "mustBeArray": "The data must be in the array",
+    "mustBeANumber": "The value you entered is not of type 'number'",
+    "dataNotANumber": "The data that belongs to the ID you entered is not the type 'number'",
+    "nonValidID": "The ID you entered is not valid"
+}

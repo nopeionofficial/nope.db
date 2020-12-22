@@ -1,0 +1,11 @@
+{
+    "undefinedID": "Tanımlanmayan ID",
+    "undefinedValue": "Tanımlanmayan değer",
+    "nonValidValue": "Girdiğiniz değer geçerli değil",
+    "undefinedFileName": "Tanımlanmayan dosya adı",
+    "notEndsWithDotJson": "Dosyanın uzantısı 'json' olmak zorundadır",
+    "mustBeArray": "Veri array içinde olmak zorundadır",
+    "mustBeANumber": "Girdiğiniz değer 'number' türü olmalıdır",
+    "dataNotANumber": "Girdiğiniz ID'ye ait olan veri 'number' türü değil",
+    "nonValidID": "Girdiğiniz ID geçerli değil"
+}
