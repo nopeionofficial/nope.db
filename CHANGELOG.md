@@ -2,6 +2,18 @@
 
 <hr>
 
+- Yenilikler / News (0.0.8):
+  - Methotlar tek bir dosyada derlendi.
+    - The methots were compiled into a single file.
+  - Birden fazla database oluşturabilme özelliği eklendi.
+    - Added the ability to create multiple databases.
+  - Çoğu ayar kişiselleştirilebilir hale getirildi.
+    - Most settings have been made customizable.
+  - [.backup()](https://www.npmjs.com/package/nope.db#backup) and [.loadBackup()](https://www.npmjs.com/package/nope.db#loadBackup) has been removed.
+    - 
+
+<hr>
+
 - Yenilikler / News (0.0.7):
   - Hata mesajları düzenlendi.
     - Error messages edited.
