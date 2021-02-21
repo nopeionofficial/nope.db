@@ -1,4 +1,11 @@
-# Güncellemeler / Updates
+# Changes
+
+<hr>
+
+- Changes on v0.0.9:
+  - Removed Turkish language.
+  - Updated README.md.
+  - Source code made much simpler.
 
 <hr>
 
