@@ -6,6 +6,8 @@
   - Removed Turkish language.
   - Updated README.md.
   - Source code made much simpler.
+  - **setting.dir** and **settings.name** were combined (causing too many errors) and **settings.path** was made.
+  - Removed **setting.language**.
 
 <hr>
 
