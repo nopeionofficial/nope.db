@@ -1,10 +1,3 @@
-<<<<<<< Updated upstream
-# nope.db
-
-> Yukarıdaki main butonuna basarak görmek istediğiniz sürümü seçebilirsiniz.
-
-Not: 0.0.5-Beta sürümünden önceki sürümler silinmiştir.
-=======
 <img src="https://i.ibb.co/C1vZ1j9/nope-db.png" alt="nope.db" />
 
 [![nope.db](https://img.shields.io/badge/nope-db-red.svg)](https://www.npmjs.org/package/nope.db)
@@ -133,4 +126,3 @@ Subtracts the value of an element in the database
 <div class="DatabaseError"></div>
 
 Extends [Error](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error), only used for error reference
->>>>>>> Stashed changes
